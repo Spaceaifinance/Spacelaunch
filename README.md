@@ -1,2 +1,0 @@
-# Spacelaunch
-SpaceLaunch
